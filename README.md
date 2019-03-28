@@ -8,7 +8,7 @@ piano1.mlapp - is the main file, for this app I used the Matlab App Designer, th
 # Fetures 
 
 #### Filters
-The user can apply multiple filters such as : high/low pass, ADSR frequency or amplitude envelope, wave such as sin wave, saw and square wave.
+The user can apply multiple filters such as : high/low pass, ADSR frequency or amplitude envelope, and wave type such as sin wave, saw and square wave.
 #### Algorithms used
 In this project I used note detection algorithms such as zero-crossing, autocorrelation and more.
 
